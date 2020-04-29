@@ -1,0 +1,10 @@
+date,city,temp,windpeed,event
+01-01-2017,mumbai,35,3,rain
+01-01-2017,mumbai,37,6,sunny
+03-03-2017,mumbai,35,4,rain
+01-01-2017,paris,40,7,winter
+01-01-2017,paris,55,3,sunny
+03-03-2017,paris,42,5,rain
+01-01-2017,london,35,5,winter
+01-01-2017,london,30,8,sunny
+03-03-2017,london,35,9,rain
